@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  /* This makes "Inter" the default font for the whole site */
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 {
+  /* This makes headings use the bolder "Montserrat" font */
+  font-family: 'Montserrat', sans-serif;
+}
